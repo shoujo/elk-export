@@ -23,7 +23,7 @@ site = https://PrivateBin.instance.url
 ```
 ## Usage
 
-To upload a user's messages to PrivateBin with default expiration time (1 week):
+To upload a user's messages to PrivateBin with the default expiration time (1 week):
 
 `python3 elk-export.py -u user`
 
