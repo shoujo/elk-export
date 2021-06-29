@@ -1,5 +1,5 @@
 ## Features
-- Export Elasticsearch records to [PrivateBin](https://privatebin.info) document
+- Export Elasticsearch records to a [PrivateBin](https://privatebin.info) document
 
 ## Installation
 ```
