@@ -1,3 +1,5 @@
+# ELK Export                    ![GitHub last commit](https://img.shields.io/github/last-commit/shoujo/elk-export)
+
 ## Features
 - Export Elasticsearch records to a [PrivateBin](https://privatebin.info) document
 
