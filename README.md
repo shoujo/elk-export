@@ -4,7 +4,7 @@
 ## Installation
 ```
 # clone the repo
-$ git clone https://github.com/elk-export/elk-export.git
+$ git clone https://github.com/shoujo/elk-export.git
 
 # change the working directory to elk-export
 $ cd elk-export
